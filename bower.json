@@ -1,0 +1,27 @@
+{
+  "name": "retreat-hell",
+  "version": "0.0.0",
+  "homepage": "https://github.com/awlka/retreat-hell",
+  "authors": [
+    "Lucas Churchill <lucas@agtlucas.com>"
+  ],
+  "description": "A css reset based on Normalize",
+  "main": "hell.css",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
