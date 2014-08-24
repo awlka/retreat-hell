@@ -39,3 +39,8 @@ audio:not([controls]) {
 template {
   display: none;
 }
+
+a:visited,
+a:active {
+  background: transparent;
+}
