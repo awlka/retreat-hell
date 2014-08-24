@@ -5,7 +5,7 @@
   "authors": [
     "Lucas Churchill <lucas@agtlucas.com>"
   ],
-  "description": "A css reset based on Normalize",
+  "description": "A css toolbelt based on Normalize",
   "main": "hell.css",
   "moduleType": [
     "amd",
