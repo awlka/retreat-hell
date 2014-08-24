@@ -61,3 +61,15 @@ img {
 svg:not(:root) {
   overflow: hidden;
 }
+
+button {
+  overflow: visible;
+}
+
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer;
+}
