@@ -53,3 +53,7 @@ a:hover {
 small {
   font-size: 80%;
 }
+
+img {
+  border: 0;
+}
