@@ -7,6 +7,10 @@ html {
   -moz-osx-font-smoothing: grayscale;
 }
 
+body {
+  margin: 0;
+}
+
 article,
 aside,
 details,
