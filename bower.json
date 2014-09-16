@@ -6,7 +6,7 @@
     "Lucas Churchill <lucas@agtlucas.com>"
   ],
   "description": "A css toolbelt based on Normalize",
-  "main": "hell.css",
+  "main": "retreat-hell.css",
   "moduleType": [
     "amd",
     "es6",
